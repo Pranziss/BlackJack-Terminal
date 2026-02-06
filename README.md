@@ -89,8 +89,6 @@ Dealer total: 20
 It's a tie! No money exchanged.
 ```  
 
----  
-
 ## Project Structure 📂  
 
 - `BJG.java` – Main game class handling game logic  
@@ -109,10 +107,28 @@ It's a tie! No money exchanged.
 
 ---  
 
-## License 📝  
+## 📜 Credits & Licensing
 
-This project is open-source and licensed under the [MIT License](LICENSE).  
+This project was developed using standard Java libraries
+and does not rely on third-party frameworks.
 
----  
+The game logic and implementation are original and written for
+learning and practice purposes.
 
-Made with ❤️ by Pranziss
+This project is licensed under the **MIT License**.
+See the `LICENSE` file for more information.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is a **console-based educational implementation**
+of the Blackjack game.
+
+It simplifies real Blackjack rules (numeric cards only, no suits)
+and is intended for learning object-oriented programming,
+game logic, and user interaction in Java.
+
+---
+
+Made with ❤️ by Franz Angelo / Pranziss
